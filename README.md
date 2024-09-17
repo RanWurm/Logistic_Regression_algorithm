@@ -62,7 +62,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For more information or to submit feedback, please email [RanWurembrand@gmail.com].
-
+## Linear Data
 ![image](https://github.com/user-attachments/assets/3e8436c2-fd00-4eef-9583-fd4d563d18ac)
+![image](https://github.com/user-attachments/assets/54fd72ff-5f28-4c47-a3fc-339ed3926587)
+## Non linear Data
+![image](https://github.com/user-attachments/assets/66d96ea5-c60b-4a58-a428-6fc3b9410f40)
+![image](https://github.com/user-attachments/assets/f9837632-0e22-4292-b00f-0d09f508aed2)
 
 
