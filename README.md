@@ -61,4 +61,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For more information or to submit feedback, please email [your-email@example.com].
+For more information or to submit feedback, please email [RanWurembrand@gmail.com].
+
+![image](https://github.com/user-attachments/assets/3e8436c2-fd00-4eef-9583-fd4d563d18ac)
+
+
